@@ -1,0 +1,21 @@
+# Environment variables (contains secrets)
+.env
+
+# Backup files
+*.sql
+*.tar.gz
+*.backup
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
